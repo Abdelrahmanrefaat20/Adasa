@@ -277,7 +277,7 @@ export default function Home() {
                 key={post.id}
                 className="group relative bg-[#161616] rounded-3xl overflow-hidden border border-[#262626] hover:border-orange-500/30 transition-all duration-500 "
               >
-                <a href="/blog/{id}" data-discover="true">
+             <NavLink to={`/blog/${post.slug}`}>
                   <div className="grid ">
                     <div className=" relative h-52 overflow-hidden ">
                       <img
@@ -333,7 +333,7 @@ export default function Home() {
                       </div>
                     </div>
                   </div>
-                </a>
+                </NavLink>
               </div>
             ))}
           </div>
