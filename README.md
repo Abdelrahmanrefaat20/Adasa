@@ -2,7 +2,7 @@
 
 A modern, Arabic-language photography blog built with React, TypeScript, and Tailwind CSS. "Adasa" (عدسة, meaning "lens") shares professional photography tips, tutorials, and techniques across categories like lighting, portraits, landscapes, and gear.
 
-🔗 **Live demo:** [assignment-13-mu.vercel.app](https://assignment-13-mu.vercel.app)
+🔗 **Live demo:** [assignment-13-mu.vercel.app](https://adasa-c6lm-alpha.vercel.app/)
 
 ## Features
 
